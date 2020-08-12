@@ -16,10 +16,10 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "ko-KR"
-title                    : "suebeen's world"
+title                    : "뚜비의 개인공부블로그 ♬"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "suebeen"
+name                     : ""
 description              : "An amazing website."
 url                      : "https://suebeen.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -93,9 +93,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "suebeen"
+  name             : "수빈"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Newbie person."
+  bio              : "Newbie"
   location         : "Seocho-gu, Seoul"
   email            :
   links:
