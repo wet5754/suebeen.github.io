@@ -16,9 +16,9 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "ko-KR"
-title                    : "뉴비의 개발노트"
+title                    : "쑤 프로그래머"
 title_separator          : "-"
-subtitle                 : "Suebeen's Blog"
+subtitle                 : "Programmer Sue"
 name                     : ""
 description              : "An amazing website."
 url                      : "https://suebeen.github.io"
@@ -93,8 +93,8 @@ analytics:
 
 # Site Author
 author:
-  name             : "Sue Been"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  name             : "뚜빙"
+  avatar           : "/assets/images/bio-photo.jpg"
   bio              : # "Newbie"
   location         : "Seocho-gu, Seoul"
   email            :
